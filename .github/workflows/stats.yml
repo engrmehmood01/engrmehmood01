@@ -1,0 +1,41 @@
+name: Update GitHub Stats Cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Download GitHub cards
+        run: |
+          mkdir -p assets
+
+          # Streak card (uses token to avoid rate limits)
+          curl -L "https://streak-stats.demolab.com?user=engrmehmood01&hide_border=true" \
+            -H "Authorization: Bearer ${{ secrets.GH_TOKEN }}" \
+            -o assets/streak.svg
+
+          # GitHub stats card (working mirror)
+          curl -L "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=engrmehmood01&show_icons=true&hide_border=true" \
+            -o assets/stats.svg
+
+          # Top languages card
+          curl -L "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=engrmehmood01&layout=compact&hide_border=true" \
+            -o assets/langs.svg
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/*.svg
+          git commit -m "Update GitHub stats cards" || exit 0
+          git push
