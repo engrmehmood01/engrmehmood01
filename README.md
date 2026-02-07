@@ -115,9 +115,10 @@ Hi 👋, I'm ENGR MEHMOOD AHMAD
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](./assets/stats.svg)
-![GitHub Streak](./assets/streak.svg)
-![Top Languages](./assets/langs.svg)
+![GitHub Stats](https://raw.githubusercontent.com/engrmehmood01/engrmehmood01/main/assets/stats.svg)
+![GitHub Streak](https://raw.githubusercontent.com/engrmehmood01/engrmehmood01/main/assets/streak.svg)
+![Top Languages](https://raw.githubusercontent.com/engrmehmood01/engrmehmood01/main/assets/langs.svg)
+
 
 ---
 
