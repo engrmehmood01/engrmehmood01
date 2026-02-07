@@ -115,11 +115,12 @@ Hi 👋, I'm ENGR MEHMOOD AHMAD
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=engrmehmood01&show_icons=true&cache_seconds=86400)
+![GitHub Streak](https://streak-stats.demolab.com?user=engrmehmood01&theme=default&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=engrmehmood01&cache_seconds=86400)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=engrmehmood01&show_icons=true&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=engrmehmood01&layout=compact&cache_seconds=86400)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=engrmehmood01&layout=compact&hide_border=true)
+
 
 ---
 
