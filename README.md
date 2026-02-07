@@ -119,8 +119,6 @@ Hi 👋, I'm ENGR MEHMOOD AHMAD
 ![GitHub Streak](./assets/streak.svg)
 ![Top Languages](./assets/langs.svg)
 
-
-
 ---
 
 ## 📫 Contact
