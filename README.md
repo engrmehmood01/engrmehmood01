@@ -116,18 +116,18 @@ Hi 👋, I'm ENGR MEHMOOD AHMAD
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=engrmehmood01&show_icons=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=engrmehmood01" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=engrmehmood01&show_icons=true&theme=default&cache_seconds=86400" height="165" />
+  <img src="https://streak-stats.demolab.com?user=engrmehmood01&cache_seconds=86400" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engrmehmood01&layout=compact" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engrmehmood01&layout=compact&cache_seconds=86400" height="165" />
 </p>
 
 ---
 
 ## 📫 Contact
-📧 **Email** engr.mehmood01@gmail.com  
+📧 **Email:** engr.mehmood01@gmail.com  
 🌐 **Portfolio:** https://itsdataanalyst.netlify.app/  
 💼 **LinkedIn:** https://www.linkedin.com/in/engrmehmood  
 
