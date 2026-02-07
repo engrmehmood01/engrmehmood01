@@ -110,7 +110,6 @@ Hi 👋, I'm ENGR MEHMOOD AHMAD
 - 📊 **Excel/Sheets dashboards** (KPIs, reports, decision tools)
 - 💧 **Irrigation & water resource analysis** (engineering + data)
 
-> Tip: Pin 4–6 best repositories on your GitHub profile (Projects + Dashboards + GEE + Python).
 
 ---
 
@@ -128,7 +127,7 @@ Hi 👋, I'm ENGR MEHMOOD AHMAD
 ---
 
 ## 📫 Contact
-📧 **engr.mehmood01@gmail.com**  
+📧 **Email** engr.mehmood01@gmail.com  
 🌐 **Portfolio:** https://itsdataanalyst.netlify.app/  
 💼 **LinkedIn:** https://www.linkedin.com/in/engrmehmood  
 
